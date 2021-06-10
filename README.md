@@ -1,7 +1,3 @@
-# website02
-This is my personal website
+1. This is a website hosted on Github that can be accessed from https://angelatanyf.github.io/website02/
 
-stuff
-some more stuff
-
-it's 4.16pm on my clock
+2. If any new public event occurs, a notification will be sent to the telegram channel DevOps ShowAndTell via IFTTT
